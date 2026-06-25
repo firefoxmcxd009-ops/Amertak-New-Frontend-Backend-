@@ -1,0 +1,20 @@
+
+BACKEND (RENDER)
+Root Directory: backend
+Build Command: npm install
+Start Command: npm start
+
+Environment Variables:
+NODE_ENV=production
+FRONTEND_URL=https://YOURAPP.vercel.app
+JWT_SECRET=your_secret
+MONGOURL=your_mongodb_uri
+OPENAI_API_KEY=your_key
+
+FRONTEND (VERCEL)
+Root Directory: public
+Framework: Other
+Output Directory: .
+
+API:
+https://amertak-tools-api.onrender.com

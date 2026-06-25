@@ -1,0 +1,1 @@
+window.API_BASE_URL='https://amertak-tools-api.onrender.com';
